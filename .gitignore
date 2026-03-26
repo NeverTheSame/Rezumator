@@ -1,0 +1,35 @@
+# Build artifacts
+rezumator
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Environment files with secrets
+secret
+.env
+*.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
+.azure_openai_token_cache.json
+.azure/*
+tests/*
+
+# Public resumes placeholders only
+my_resumes/*
+!my_resumes/sre_placeholder.json

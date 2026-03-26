@@ -1,0 +1,27 @@
+{
+  "objective": "Senior Site Reliability Engineer with 10 years of experience designing, operating, and maintaining highly available infrastructure and distributed systems. Seeking to leverage expertise in Kubernetes, Terraform, observability, and incident response to improve reliability, scalability, and performance of mission-critical services.",
+  "current_job": {
+    "company": "Company A",
+    "title": "Senior Site Reliability Engineer (Reliability)",
+    "description": "Supported reliability operations for a portfolio of customer-facing services, improving incident recovery by 30% and reducing recurring high-severity events by 25%. Provisioned infrastructure using Terraform modules and standardized deployment workflows, cutting environment setup time from 2 days to 6 hours. Managed containerized workloads on Kubernetes with Docker images and rollout policies, increasing deployment success rate to 99.5%. Implemented observability dashboards and alerting using common metrics and log aggregation, reducing MTTD by 45% and MTTR by 35%. Automated runbooks and on-call processes, achieving 98% on-time response and 100% post-incident follow-through. Collaborated with engineering teams to strengthen CI/CD quality gates and release safety, lowering failed releases by 20%.",
+    "start_date": "2019-01",
+    "end_date": "Present"
+  },
+  "past_jobs": [
+    {
+      "company": "Company B",
+      "title": "Senior SRE Engineer",
+      "description": "Built automation for backup and disaster-recovery workflows, improving recovery readiness and reducing recovery-time variance by 40%. Developed reliability checks and capacity planning routines, preventing performance regressions in peak traffic windows. Created incident response playbooks and reporting, cutting mean time to acknowledge alerts by 50% and increasing follow-up completion to 95%. Mentored a small reliability cohort and helped standardize reliability metrics and dashboards across teams.",
+      "start_date": "2016-03",
+      "end_date": "2018-12"
+    },
+    {
+      "company": "Company C",
+      "title": "Technical Support Engineer",
+      "description": "Handled production troubleshooting across web and service layers, resolving distributed failures and reducing repeat incidents by 22%. Wrote automation scripts to streamline operational tasks and data validation, cutting manual effort by 35%. Implemented basic monitoring and alerting patterns to improve early detection and reduce customer-impacting outages. Partnered with engineers to document fixes and improve runbooks for recurring operational issues.",
+      "start_date": "2014-08",
+      "end_date": "2016-02"
+    }
+  ]
+}
+

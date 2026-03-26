@@ -1,0 +1,52 @@
+PASTE THE FULL JOB POSTING TEXT HERE (RAW COPY-PASTE)
+
+This file is used as the primary source of truth for tailoring. Better input here = better matching.
+
+What to include (recommended):
+- Company name (if present)
+- Exact role title (first line if possible)
+- Full responsibilities section (every bullet)
+- Full requirements/qualifications section (every bullet)
+- Tech stack/tools/services list (e.g., Kubernetes, Terraform, GCP services, Airflow, Kafka, etc.)
+- Nice-to-haves and domain context (industry, platform type, scale)
+
+What NOT to do:
+- Do not paste only a short summary; paste the whole posting.
+- Do not remove “boring” bullets — those are often the matching signals.
+- Do not redact tool names unless they are truly sensitive.
+
+Best results format (copy this structure, then paste content under each header):
+
+Company:
+<company name>
+
+Title:
+<exact job title>
+
+About the team / product:
+<1-10 lines describing what they build, scale, customers, constraints>
+
+Responsibilities:
+- <bullet 1>
+- <bullet 2>
+- <bullet 3>
+
+Requirements:
+- <bullet 1>
+- <bullet 2>
+- <bullet 3>
+
+Tech stack / tools mentioned:
+- <tool/service 1>
+- <tool/service 2>
+- <tool/service 3>
+
+Nice to have:
+- <bullet 1>
+- <bullet 2>
+
+Important keywords (optional, but helps matching):
+- <keyword 1>
+- <keyword 2>
+- <keyword 3>
+

@@ -1,0 +1,6 @@
+{
+    "technologies_to_avoid": [
+        "Add here technology to avoid"
+    ],
+    "instructions": "For these technologies, either skip mentioning them or say the candidate is eager to learn them. Do not fabricate experience with these technologies."
+} 
