@@ -166,9 +166,9 @@ Using job_details.txt file
 {
     "objective": "Senior Site Reliability Engineer with over 12 years of experience...",
     "current_job": {
-        "company": "Microsoft",
+        "company": "Company A",
         "title": "Senior Site Reliability Engineer",
-        "description": "Lead reliability and scalability efforts for Microsoft Defender services..."
+        "description": "Lead reliability and scalability efforts for a portfolio of customer-facing services..."
     }
 }
 ```
@@ -187,8 +187,8 @@ OBJECTIVE:
 Senior AI & Automation Specialist with over 12 years of experience in designing, operating, and maintaining scalable, reliable infrastructure and distributed systems...
 
 CURRENT JOB:
-Company: Microsoft
-Title: Senior Site Reliability Engineer (Security and Compliance)
+Company: Company A
+Title: Senior Site Reliability Engineer (Reliability)
 Description: Lead architecture and implementation of fault-tolerant, multi-region Azure systems...
 
 === COVER LETTER ===
